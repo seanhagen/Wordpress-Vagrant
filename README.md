@@ -3,7 +3,7 @@ Wordpress Vagrant
 
 ## Or, How To Run Vagrant Inside Wordpress
 
-This is Wordpress 3.8.1, with a [PuPHPet][http://puphpet.com] generated [Vagrant][http://vagrantup.com] configuration.
+This is Wordpress 3.8.1, with a [PuPHPet](http://puphpet.com) generated [Vagrant](http://vagrantup.com) configuration.
 
 ## How To Run
 
